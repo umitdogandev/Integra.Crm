@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Integra.Crm.Rest", "Integra.Crm.Rest\Integra.Crm.Rest.csproj", "{914C9C04-1ECC-49E8-B578-C9EE9F73D114}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{914C9C04-1ECC-49E8-B578-C9EE9F73D114}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{914C9C04-1ECC-49E8-B578-C9EE9F73D114}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{914C9C04-1ECC-49E8-B578-C9EE9F73D114}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{914C9C04-1ECC-49E8-B578-C9EE9F73D114}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
